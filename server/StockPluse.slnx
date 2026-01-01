@@ -1,7 +1,0 @@
-<Solution>
-  <Folder Name="/StockPluse.APi/">
-    <Project Path="StockPluse.APi/StockPluse.API.csproj" />
-  </Folder>
-  <Project Path="StockPluse.Core/StockPluse.Core.csproj" />
-  <Project Path="StockPluse.Infrastructure/StockPluse.Infrastructure.csproj" />
-</Solution>

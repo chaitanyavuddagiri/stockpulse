@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="StockPulse.API/StockPulse.API.csproj" />
+  <Project Path="StockPulse.Core/StockPulse.Core.csproj" />
+  <Project Path="StockPulse.Infrastructure/StockPulse.Infrastructure.csproj" />
+</Solution>
