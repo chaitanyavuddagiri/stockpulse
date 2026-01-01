@@ -1,0 +1,6 @@
+@StockPluse.API_HostAddress = http://localhost:5209
+
+GET {{StockPluse.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
